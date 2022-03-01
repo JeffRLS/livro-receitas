@@ -1,6 +1,6 @@
-#Livro de Receitas :chef:
+# Livro de Receitas 
 
-###Olá! Bem vindo ao meu livro de receitas: :wave:
+### Olá! Bem vindo ao meu livro de receitas: :wave:
 
 
 
